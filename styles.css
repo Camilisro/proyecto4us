@@ -11,6 +11,10 @@ img {
     height: 500px;
 }
 
+#logo {
+  height: 50px;
+}
+
 html, body {
     margin:0;
     padding:0;
@@ -36,4 +40,10 @@ html, body {
     bottom:0;
     left:0;
     width:100%;
+  }
+  
+  #texto {
+  <p align ="center" > 4us es un tacho de reciclaje inteligente cuyo principal 
+  objetivo es impulsar a los más chicos a que implementen esta indispensable 
+  acción para mejorar el lugar donde vivimos </p>
   }

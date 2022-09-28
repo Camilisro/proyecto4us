@@ -1,0 +1,17 @@
+    /* Use a media query to add a break point at 800px: */
+    @media (max-width: 800px){
+        
+        body {
+            background-color: aliceblue;
+        }
+    
+
+    .form {
+        width: 60%;
+        margin: 0 auto;
+    }
+    
+    img {
+        height: 200px;
+    }
+        }
