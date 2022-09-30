@@ -1,3 +1,10 @@
+body {
+  height: 400px;
+  background-image: ("./fondo 4us_Mesa de trabajo 1.jpg");
+  background-size: cover;
+  background-repeat:repeat;
+  background-position: center center; 
+}
 .form {
     width: 30%;
     margin: 0 auto;
@@ -46,4 +53,10 @@ html, body {
   <p align ="center" > 4us es un tacho de reciclaje inteligente cuyo principal 
   objetivo es impulsar a los más chicos a que implementen esta indispensable 
   acción para mejorar el lugar donde vivimos </p>
+  }
+
+  #carousel-inner:over {
+
+
+
   }
