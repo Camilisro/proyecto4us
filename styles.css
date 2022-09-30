@@ -5,6 +5,11 @@ body {
   background-repeat:repeat;
   background-position: center center; 
 }
+
+navbar-item {
+  color: #FFFF;
+}
+
 .form {
     width: 30%;
     margin: 0 auto;
