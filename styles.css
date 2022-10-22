@@ -6,7 +6,10 @@ body {
   background-position: center center; 
 }
 
-navbar-item {
+nav-link {
+
+}
+navbar-toggler {
   color: #FFFF;
 }
 
