@@ -6,6 +6,19 @@ body {
   background-position: center center; 
 }
 
+h1 {
+  text-align: center;
+  text-decoration-color: green;
+}
+
+h3 {
+  text-align: center;
+}
+
+h6 {
+  text-align:left;
+}
+
 nav-link {
 
 }
