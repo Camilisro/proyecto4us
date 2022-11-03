@@ -76,25 +76,7 @@ body {
   }
 }
 
-h1 {
-  text-align: center;
-  text-decoration-color: green;
-}
 
-h3 {
-  text-align: center;
-}
-
-h6 {
-  text-align:left;
-}
-
-nav-link {
-
-}
-navbar-toggler {
-  color: #FFFF;
-}
 
 .form {
     width: 30%;
